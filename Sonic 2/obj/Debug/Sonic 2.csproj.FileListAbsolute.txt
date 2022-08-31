@@ -1,0 +1,40 @@
+C:\Users\TRAX\source\repos\Sonic 2\Sonic 2\bin\Debug\Sonic 2.exe.config
+C:\Users\TRAX\source\repos\Sonic 2\Sonic 2\bin\Debug\Sonic 2.exe
+C:\Users\TRAX\source\repos\Sonic 2\Sonic 2\bin\Debug\Sonic 2.pdb
+C:\Users\TRAX\source\repos\Sonic 2\Sonic 2\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\TRAX\source\repos\Sonic 2\Sonic 2\bin\Debug\ExcelDataReader.dll
+C:\Users\TRAX\source\repos\Sonic 2\Sonic 2\bin\Debug\SeleniumExtensions.dll
+C:\Users\TRAX\source\repos\Sonic 2\Sonic 2\bin\Debug\SeleniumExtras.PageObjects.dll
+C:\Users\TRAX\source\repos\Sonic 2\Sonic 2\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\TRAX\source\repos\Sonic 2\Sonic 2\bin\Debug\System.Buffers.dll
+C:\Users\TRAX\source\repos\Sonic 2\Sonic 2\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\TRAX\source\repos\Sonic 2\Sonic 2\bin\Debug\System.Memory.dll
+C:\Users\TRAX\source\repos\Sonic 2\Sonic 2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\TRAX\source\repos\Sonic 2\Sonic 2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\TRAX\source\repos\Sonic 2\Sonic 2\bin\Debug\System.Security.AccessControl.dll
+C:\Users\TRAX\source\repos\Sonic 2\Sonic 2\bin\Debug\System.Security.Permissions.dll
+C:\Users\TRAX\source\repos\Sonic 2\Sonic 2\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\TRAX\source\repos\Sonic 2\Sonic 2\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\TRAX\source\repos\Sonic 2\Sonic 2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\TRAX\source\repos\Sonic 2\Sonic 2\bin\Debug\WebDriver.dll
+C:\Users\TRAX\source\repos\Sonic 2\Sonic 2\bin\Debug\WebDriver.Support.dll
+C:\Users\TRAX\source\repos\Sonic 2\Sonic 2\bin\Debug\ExcelDataReader.pdb
+C:\Users\TRAX\source\repos\Sonic 2\Sonic 2\bin\Debug\ExcelDataReader.xml
+C:\Users\TRAX\source\repos\Sonic 2\Sonic 2\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\TRAX\source\repos\Sonic 2\Sonic 2\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\TRAX\source\repos\Sonic 2\Sonic 2\bin\Debug\SeleniumExtensions.pdb
+C:\Users\TRAX\source\repos\Sonic 2\Sonic 2\bin\Debug\SeleniumExtensions.xml
+C:\Users\TRAX\source\repos\Sonic 2\Sonic 2\bin\Debug\System.Buffers.xml
+C:\Users\TRAX\source\repos\Sonic 2\Sonic 2\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\TRAX\source\repos\Sonic 2\Sonic 2\bin\Debug\System.Memory.xml
+C:\Users\TRAX\source\repos\Sonic 2\Sonic 2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\TRAX\source\repos\Sonic 2\Sonic 2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\TRAX\source\repos\Sonic 2\Sonic 2\bin\Debug\System.Security.AccessControl.xml
+C:\Users\TRAX\source\repos\Sonic 2\Sonic 2\bin\Debug\System.Security.Permissions.xml
+C:\Users\TRAX\source\repos\Sonic 2\Sonic 2\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\TRAX\source\repos\Sonic 2\Sonic 2\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\TRAX\source\repos\Sonic 2\Sonic 2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\TRAX\source\repos\Sonic 2\Sonic 2\obj\Debug\Sonic 2.csproj.CoreCompileInputs.cache
+C:\Users\TRAX\source\repos\Sonic 2\Sonic 2\obj\Debug\Sonic 2.csproj.CopyComplete
+C:\Users\TRAX\source\repos\Sonic 2\Sonic 2\obj\Debug\Sonic 2.exe
+C:\Users\TRAX\source\repos\Sonic 2\Sonic 2\obj\Debug\Sonic 2.pdb
